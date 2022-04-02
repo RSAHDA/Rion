@@ -1,0 +1,19 @@
+#title {
+    margin-top: 6%;
+    font-size: 550%;
+}
+
+body {
+    background-image: url(
+    "https://media.istockphoto.com/photos/abstract-geometric-background-raster-version-picture-id649202494?k=20&m=649202494&s=612x612&w=0&h=867UGacjIOCppP5wp-RWlnaTbt2PN1ZrWunUHHwb9qU="
+    );
+    background-size: 100% 300%;
+}
+
+options {
+    margin-left: 100%;
+}
+
+#input {
+    padding-top: 10%;
+}
