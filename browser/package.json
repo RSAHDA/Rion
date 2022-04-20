@@ -4,11 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "electron . --no-sandbox"
+    "start": "electron . --trace-warnings"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "^16.0.4"
+    "electron": "^16.0.4",
+    "express": "^4.17.3",
+    "python-shell": "^3.0.1",
+    "unblocker": "^2.3.0"
   }
 }
